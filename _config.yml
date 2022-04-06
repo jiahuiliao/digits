@@ -1,7 +1,5 @@
 title: Digits
 description: An application that allows users to create and manage contacts.
-google_analytics:
-show_downloads: true
 theme: jekyll-theme-midnight
 
 gems:
